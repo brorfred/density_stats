@@ -1,0 +1,19 @@
+name: modeldata_GBC
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - xarray
+  - scipy
+  - numpy
+  - matplotlib
+  - netcdf4
+  - pytables
+  - h5py
+  - cartopy
+  - pip
+  - pip:
+    - oceandata
+    - pyresample
+    - projmap
