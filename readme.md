@@ -11,6 +11,8 @@ This repository includes code to analyze distributions of geophysical data as de
 
 The repository also includes all necessary data as histograms used in the analysis presented in the paper. The raw data needed to generate the histograms are accessible from reposotories referenced in the paper.
 
+The `figures_in_paper` contains all figures not included in the paper.
+
 ### Prerequisites
 
 The following pypi packages are necessary for the code to work:
